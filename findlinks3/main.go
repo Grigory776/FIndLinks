@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"src/Donovan/ch5/findlinks3/links"
+	"findlinks3/links"
 )
 
 func OutExtract(arUrl []string){
