@@ -1,4 +1,4 @@
-module src/Donovan/ch5/findlinks3
+module findlinks3
 
 go 1.17
 
